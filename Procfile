@@ -1,1 +1,3 @@
+export API_KEY=y2n348VAPJg0hTZLpVaPfVR4Z
+export API_SECRET=kAT73o53ylGrhHSO8UyavoDyFzws7cmoJO7Hjafv20NM7ozG4U
 web: gunicorn application:app
